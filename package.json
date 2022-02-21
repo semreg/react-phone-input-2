@@ -1,5 +1,5 @@
 {
-  "name": "react-phone-input-2",
+  "name": "react-phone-input-2-extended",
   "version": "2.15.0",
   "description": "A react component to format phone numbers",
   "main": "lib/lib.js",
@@ -40,7 +40,7 @@
     "README.md",
     "index.d.ts"
   ],
-  "author": "Nick Reiley <bloomber111@gmail.com> (https://github.com/bl00mber)",
+  "author": "Vlad Chabaniuk <vchabaniuk@yahoo.com> (https://github.com/semreg)",
   "contributors": [
     "Raza Gill <raza.gill@outlook.com> (https://github.com/razagill)"
   ],
